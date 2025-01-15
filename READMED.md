@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Bienvenido a mi Perfil de GitHub
 
-Soy [Tu Nombre], un apasionado por el análisis de datos y siempre en busca de aprender nuevas herramientas y metodologías para convertir datos en insights accionables. 🚀
+Soy Ammy, un apasionada por el análisis de datos y siempre en busca de aprender nuevas herramientas y metodologías para convertir datos en insights accionables. 🚀
 
 ---
 
