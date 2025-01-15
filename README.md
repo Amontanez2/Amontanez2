@@ -39,7 +39,7 @@ Aquí están las herramientas con las que estoy trabajando:
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amontanez2&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="Racha de contribuciones" />
 </div>
 
