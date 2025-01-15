@@ -32,7 +32,7 @@ Aquí están las herramientas con las que estoy trabajando:
 ## 📊 Mi Trabajo
 
 🔗 [Visita mi portafolio de proyectos](#)  
-💼 [Conéctate conmigo en LinkedIn](https://linkedin.com/in/tu-usuario)  
+💼 [Conéctate conmigo en LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/ammy-montanez-barrientos-2566182b9/))  
 
 ---
 
