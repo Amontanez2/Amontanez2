@@ -30,6 +30,13 @@ Aquí están las herramientas con las que estoy trabajando:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ---
 
+### **Librerías de Python**
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-%231E90FF.svg?style=for-the-badge&logo=python&logoColor=white)  
+
+
 ## 📊 Mi Trabajo
 
 🔗 [Visita mi portafolio de proyectos](#)  
