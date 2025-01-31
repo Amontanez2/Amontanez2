@@ -23,10 +23,11 @@ Aquí están las herramientas con las que estoy trabajando:
 
 ### **Bases de Datos**
 ![SQL](https://img.shields.io/badge/SQL-%230075C2.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%230075C2.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Lenguajes de Programación**
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ---
 
 ## 📊 Mi Trabajo
