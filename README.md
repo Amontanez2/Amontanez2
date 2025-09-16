@@ -6,7 +6,7 @@ Soy Ammy, una apasionada por el análisis de datos y siempre en busca de aprende
 
 ## 🌟 Sobre Mí
 
-- 🎓 **Estudiante de Ingeniería de Sistemas** (9no ciclo).
+- 🎓 **Estudiante de Ingeniería de Sistemas** (10mo ciclo).
 - 🖥️ Apasionado por el **Análisis de Datos** y la **Visualización de Información**.
 - 💡 Explorando **Power BI**, **SQL** y **Python** para proyectos prácticos.
 - 🤝 Dispuesto a colaborar en proyectos relacionados con ciencia de datos.
