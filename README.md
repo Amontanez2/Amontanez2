@@ -1,21 +1,32 @@
 # 👋 ¡Hola! Bienvenido a mi Perfil de GitHub
 
-Soy Ammy, una apasionada por el análisis de datos y siempre en busca de aprender nuevas herramientas y metodologías para convertir datos en insights accionables. 🚀
+Soy Ammy Montañez Barrientos, Practicante QA / Tester Junior, estudiante de Ingeniería de Sistemas (10mo ciclo), con enfoque en aseguramiento de la calidad del software y conocimientos en análisis de datos como soporte para la toma de decisiones y validación de información. Me interesa participar en proyectos donde la calidad, la mejora continua y la experiencia del usuario sean prioridad.
 
 ---
 
 ## 🌟 Sobre Mí
 
-- 🎓 **Estudiante de Ingeniería de Sistemas** (10mo ciclo).
-- 🖥️ Apasionado por el **Análisis de Datos** y la **Visualización de Información**.
-- 💡 Explorando **Power BI**, **SQL** y **Python** para proyectos prácticos.
-- 🤝 Dispuesto a colaborar en proyectos relacionados con ciencia de datos.
+-🔍 Practicante QA / Tester Junior con interés en pruebas funcionales y no funcionales.
+-🧠 Conocimientos en diseño de casos de prueba, detección y reporte de defectos.
+-📝 Experiencia documentando incidencias y validando requerimientos.
+-🤝 Capacidad para trabajar con equipos de desarrollo y negocio.
+-📊 Background en análisis de datos, útil para validar resultados, métricas y reportes.
 
 ---
 
 ## 🛠️ Herramientas y Tecnologías
 
-Aquí están las herramientas con las que estoy trabajando:
+🧪 Quality Assurance
+
+✔️ Pruebas funcionales (manuales)
+
+✔️ Casos de prueba y escenarios
+
+✔️ Reporte de bugs
+
+✔️ Validación de requerimientos
+
+✔️ Testing de aplicaciones web
 
 ### **Análisis y Visualización**
 ![Power BI](https://img.shields.io/badge/PowerBI-%230E77B5.svg?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -37,12 +48,25 @@ Aquí están las herramientas con las que estoy trabajando:
 ![Seaborn](https://img.shields.io/badge/Seaborn-%231E90FF.svg?style=for-the-badge&logo=python&logoColor=white)  
 
 
+🚀 ¿Qué encontrarás en mi GitHub?
+- 📌 Proyectos académicos y prácticos.
+- 🧪 Ejercicios relacionados con QA y validación de software.
+- 📊 Proyectos de análisis de datos como soporte técnico.
+- 📂 Documentación clara y ordenada.
+
+
 ## 📊 Mi Trabajo
 
 🔗 [Visita mi portafolio de proyectos](#)  
 💼 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/ammy-montanez-barrientos-2566182b9/)  
 
 ---
+
+🤝 Intereses
+- QA / Testing Manua
+- Automatización (a futuro)
+- Mejora de procesos
+- Análisis de datos aplicado a calidad
 
 ## 📈 Estadísticas de GitHub
 
