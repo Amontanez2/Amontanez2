@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Bienvenido a mi Perfil de GitHub
 
-Soy Ammy Montañez Barrientos, Practicante QA / Tester Junior, estudiante de Ingeniería de Sistemas (10mo ciclo), con enfoque en aseguramiento de la calidad del software y conocimientos en análisis de datos como soporte para la toma de decisiones y validación de información. Me interesa participar en proyectos donde la calidad, la mejora continua y la experiencia del usuario sean prioridad.
+Soy Ammy Montañez Barrientos, QA Junior / Tester Junior, estudiante de Ingeniería de Sistemas (10mo ciclo), con enfoque en aseguramiento de la calidad del software, pruebas manuales y documentación de incidencias.
+Cuento con conocimientos en análisis de datos, lo cual utilizo como apoyo para la validación de información, reportes y mejora continua de procesos.
 
 ---
 
@@ -10,7 +11,7 @@ Soy Ammy Montañez Barrientos, Practicante QA / Tester Junior, estudiante de Ing
 - 🧠 Conocimientos en diseño de casos de prueba, detección y reporte de defectos.
 - 📝 Experiencia documentando incidencias y validando requerimientos.
 - 🤝 Capacidad para trabajar con equipos de desarrollo y negocio.
-- 📊 Background en análisis de datos, útil para validar resultados, métricas y reportes.
+- 📊 Conocimientos en análisis de datos como valor agregado.
 
 ---
 
@@ -63,20 +64,13 @@ Soy Ammy Montañez Barrientos, Practicante QA / Tester Junior, estudiante de Ing
 ---
 
 🤝 Intereses
-- QA / Testing Manua
+- QA / Testing Manual
 - Automatización (a futuro)
 - Mejora de procesos
 - Análisis de datos aplicado a calidad
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amontanez2&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amontanez2&theme=radical" alt="Racha de contribuciones" />
-</div>
-
----
 
 ## ✨ Inspiración
-
+💡 "La calidad no se prueba al final, se asegura en cada paso.”
 💡 "Transforma datos en decisiones y haz que cuenten."  
+
