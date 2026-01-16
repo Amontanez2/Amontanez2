@@ -6,11 +6,11 @@ Soy Ammy Montañez Barrientos, Practicante QA / Tester Junior, estudiante de Ing
 
 ## 🌟 Sobre Mí
 
--🔍 Practicante QA / Tester Junior con interés en pruebas funcionales y no funcionales.
--🧠 Conocimientos en diseño de casos de prueba, detección y reporte de defectos.
--📝 Experiencia documentando incidencias y validando requerimientos.
--🤝 Capacidad para trabajar con equipos de desarrollo y negocio.
--📊 Background en análisis de datos, útil para validar resultados, métricas y reportes.
+- 🔍 Practicante QA / Tester Junior con interés en pruebas funcionales y no funcionales.
+- 🧠 Conocimientos en diseño de casos de prueba, detección y reporte de defectos.
+- 📝 Experiencia documentando incidencias y validando requerimientos.
+- 🤝 Capacidad para trabajar con equipos de desarrollo y negocio.
+- 📊 Background en análisis de datos, útil para validar resultados, métricas y reportes.
 
 ---
 
