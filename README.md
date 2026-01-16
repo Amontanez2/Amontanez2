@@ -71,6 +71,6 @@ Cuento con conocimientos en análisis de datos, lo cual utilizo como apoyo para 
 
 
 ## ✨ Inspiración
-💡 "La calidad no se prueba al final, se asegura en cada paso.”
-💡 "Transforma datos en decisiones y haz que cuenten."  
+- 💡 "La calidad no se prueba al final, se asegura en cada paso.”
+- 💡 "Transforma datos en decisiones y haz que cuenten."  
 
