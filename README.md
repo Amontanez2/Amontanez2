@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Bienvenido a mi Perfil de GitHub
 
-Soy Ammy Montañez Barrientos, QA Junior / Tester Junior, estudiante de Ingeniería de Sistemas (10mo ciclo), con enfoque en aseguramiento de la calidad del software, pruebas manuales y documentación de incidencias.
-Cuento con conocimientos en análisis de datos, lo cual utilizo como apoyo para la validación de información, reportes y mejora continua de procesos.
+Soy Ammy Montañez Barrientos, QA Junior / Tester Junior, estudiante de Ingeniería de Sistemas (10mo ciclo), con enfoque en aseguramiento de la calidad del software, pruebas manuales y documentación de incidencias. Cuento con conocimientos en análisis de datos, los cuales utilizo como soporte para la validación de información, elaboración de reportes, análisis de resultados y mejora continua de procesos.
 
 ---
 
