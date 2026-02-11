@@ -73,10 +73,10 @@ Mi enfoque integra QA y Data como disciplinas complementarias para asegurar cali
 ---
 
 🤝 Intereses
-- QA / Testing Manual
-- Automatización (a futuro)
-- Mejora de procesos
-- Análisis de datos aplicado a calidad
+- QA y aseguramiento de la calidad del software
+- Análisis y visualización de datos
+- Data-driven quality & process improvement
+- Automatización de pruebas (a futuro)
 
 
 ## ✨ Inspiración
