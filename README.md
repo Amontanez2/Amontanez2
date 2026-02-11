@@ -1,33 +1,42 @@
 # 👋 ¡Hola! Bienvenido a mi Perfil de GitHub
 
-Soy Ammy Montañez Barrientos, QA Junior / Data Analytics Junior y estudiante de Ingeniería de Sistemas (10mo ciclo). Tengo enfoque tanto en aseguramiento de la calidad del software como en análisis de datos, combinando pruebas manuales, documentación de incidencias y validación de requerimientos con análisis, limpieza y visualización de datos.
-Mi perfil integra QA y Data como disciplinas complementarias para la mejora continua de procesos, toma de decisiones basada en datos y entrega de software de calidad.
+Soy Ammy Montañez Barrientos, QA Junior y Data Analytics Junior, estudiante de Ingeniería de Sistemas (10mo ciclo).Cuento con experiencia en pruebas manuales, documentación de incidencias y validación de requerimientos, así como en proyectos personales de análisis de datos orientados a la limpieza, análisis y visualización de información.
+Mi enfoque integra QA y Data como disciplinas complementarias para asegurar calidad, detectar oportunidades de mejora y apoyar la toma de decisiones basada en datos.
 
 ---
 
 ## 🌟 Sobre Mí
+🔹 QA
+- Pruebas funcionales manuales
+- Diseño de casos de prueba
+- Reporte y seguimiento de bugs
+- Validación de requerimientos
 
-- 🔍 Practicante QA / Tester Junior con interés en pruebas funcionales y no funcionales.
-- 🧠 Conocimientos en diseño de casos de prueba, detección y reporte de defectos.
-- 📝 Experiencia documentando incidencias y validando requerimientos.
-- 🤝 Capacidad para trabajar con equipos de desarrollo y negocio.
-- 📊 Conocimientos en análisis de datos como valor agregado.
+🔹 Data Analytics
+- Proyectos personales de análisis de datos
+- Limpieza y transformación de datos
+- Análisis exploratorio
+- Visualización y reportes
+
+🔹 Transversal
+- Mejora continua de procesos
+- Trabajo con equipos técnicos y de negocio
 
 ---
 
-## 🛠️ Herramientas y Tecnologías
+🛠️ Herramientas y Tecnologías
 
-🧪 Quality Assurance
+### QA
+- Testing manual
+- Casos de prueba
+- Reporte de incidencias
+- Testing web
 
-✔️ Pruebas funcionales (manuales)
-
-✔️ Casos de prueba y escenarios
-
-✔️ Reporte de bugs
-
-✔️ Validación de requerimientos
-
-✔️ Testing de aplicaciones web
+### Data Analytics
+- Python (pandas, matplotlib)
+- SQL (consultas básicas)
+- Excel
+- Power BI (básico)
 
 ### **Análisis y Visualización**
 ![Power BI](https://img.shields.io/badge/PowerBI-%230E77B5.svg?style=for-the-badge&logo=powerbi&logoColor=white)
