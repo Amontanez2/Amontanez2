@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Bienvenido a mi Perfil de GitHub
 
-Soy Ammy Montañez Barrientos, QA/Data Engineer. Cuento con experiencia en pruebas manuales, documentación de incidencias y validación de requerimientos, así como en proyectos personales de análisis de datos orientados a la limpieza, análisis y visualización de información.
+Soy Ammy Montañez Barrientos, QA/Data Engineer. Cuento con experiencia en pruebas manuales, automatización, documentación de incidencias y validación de requerimientos, así como en proyectos personales de análisis de datos orientados a la limpieza, análisis y visualización de información.
 Mi enfoque integra QA y Data como disciplinas complementarias para asegurar calidad, detectar oportunidades de mejora y apoyar la toma de decisiones basada en datos.
 
 ---
@@ -8,6 +8,7 @@ Mi enfoque integra QA y Data como disciplinas complementarias para asegurar cali
 ## 🌟 Sobre Mí
 🔹 QA
 - Pruebas funcionales manuales
+- Pruebas automatizadas
 - Diseño de casos de prueba
 - Reporte y seguimiento de bugs
 - Validación de requerimientos
